@@ -7,3 +7,7 @@ Download this repo then run launch.bat if you are on windows, or launch.sh if yo
 Java 8 is recommended but it should run on any java version, even java 17
 
 Singleplayer wont work so thats why its on 22w30a
+
+credit to ant for telling me that java 17 works
+
+credit to percs for re-giving me this repos readme file
